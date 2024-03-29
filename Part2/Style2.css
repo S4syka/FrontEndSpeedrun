@@ -1,0 +1,14 @@
+body{
+    font-size: xx-large;
+}
+
+h1, p{
+    color:brown
+}
+
+h1{
+    border-style:dashed double ridge inset;
+    border-width:12px;
+    border-radius:40px;
+    padding:120px 0 0 60px
+} 

@@ -1,0 +1,14 @@
+/*comet*/
+#Welcome {
+    color:red;
+    background-color: green;
+}
+
+h1.Heading{
+    color: blue;
+    background-color: green;
+}
+
+*{
+    color:aqua
+}
